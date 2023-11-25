@@ -1,0 +1,17 @@
+# Blender MTL File: 'spaceship_01.blend'
+# Material Count: 1
+
+newmtl spaceship_01_mat
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump F:\\blender\\lowpoly\\spaceship_01\\textures\\sp_1_nor.PNG
+map_Kd F:\\blender\\lowpoly\\spaceship_01\\textures\\sp_1_color.PNG
+map_Ke F:\\blender\\lowpoly\\spaceship_01\\textures\\sp_1_emit.PNG
+map_Ns F:\\blender\\lowpoly\\spaceship_01\\textures\\sp_1_roughness.png
+refl F:\\blender\\lowpoly\\spaceship_01\\textures\\sp_1_metalness.png
